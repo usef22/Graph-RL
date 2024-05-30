@@ -191,7 +191,7 @@ if __name__ == '__main__':
     end_state = 2472
     num_epoch = 500000
     user_id = 1455
-    total_data_to_be_transfer = 100   # In Bits
+    total_data_to_be_transfer = 500   # In Bits
 
     # Get the directory of the current file
     current_dir = os.path.dirname(os.path.abspath(__file__))

@@ -191,8 +191,8 @@ if __name__ == '__main__':
     create_directory_if_not_exists("output")
     create_directory_if_not_exists("epoch_vs_cost_plots")
 
-    start_state = 25
-    end_state = 50
+    start_state = 41
+    end_state = 4344
     num_epoch = 500000
     user_id = 1455
     total_data_to_be_transfer = 100  # In Bits

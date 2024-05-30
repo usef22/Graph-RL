@@ -203,7 +203,7 @@ if __name__ == '__main__':
     start_state = 3410
     end_state = 2472
     num_epoch = 500000
-    total_data_to_be_transfer = 100      # In Bits
+    total_data_to_be_transfer = 500      # In Bits
     user_id = 1455
 
      # Get the directory of the current file
